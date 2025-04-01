@@ -5,13 +5,13 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br)
 > #### *“Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.”*
 > ― *Alan Turing*
 
-## Contact me 📞
+## 📞 Contact me
 <div>
   <a href="https://www.linkedin.com/in/enzo-yukio-chinen/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:yukiochinen25@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Technologies
+## 💻 Technologies
 #### Programming Languages
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
@@ -37,9 +37,9 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br)
 #### AI & Machine Learning
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 
-## GitHub Stats
+## 🚀 GitHub Stats
 
-<div>
+<div align="center">
 <a href="https://github.com/YukioChinen">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukioChinen&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YukioChinen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
