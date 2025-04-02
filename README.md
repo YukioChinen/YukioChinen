@@ -62,7 +62,7 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br)
 <div align="center">
 <a href="https://github.com/YukioChinen">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukioChinen&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YukioChinen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YukioChinen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 </div>
 
 ## 📞 Contact me
