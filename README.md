@@ -5,7 +5,12 @@
 ## Hey! I'm Enzo ✌️
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right">
 
-Computer Engineering student at [UNIFEI](https://unifei.edu.br)
+Computer Engineer, graduated from [UNIFEI](https://unifei.edu.br)
+
+### 💼 Internship Experience
+
+- Short Job Program Intern at [BTG PACTUAL](https://www.btgpactual.com)
+
 
 > #### *“Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.”*
 > ― *Alan Turing*
@@ -56,14 +61,6 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br)
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 </p>
 
-
-## 🚀 GitHub Stats
-
-<div align="center">
-<a href="https://github.com/YukioChinen">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukioChinen&layout=compact&langs_count=7&theme=dracula"/>
-<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YukioChinen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-</div>
 
 ## 📞 Contact me
 Want to collaborate or just have a chat? Feel free to get in touch!
