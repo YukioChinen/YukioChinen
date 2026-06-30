@@ -14,7 +14,7 @@
 
 ## 💼  Experience
 
-- Software Developer at **Teck Soluções** *(Current)*
+- Fullstack Developer Junior at **Teck Soluções** *(Current)*
 - Short Job Program Intern at **BTG Pactual**
 
 ---
