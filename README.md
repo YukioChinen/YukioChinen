@@ -24,7 +24,7 @@
 > *“Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.”*  
 > ― **Alan Turing**
 
----
+<!-- ---
 
 ## 💻 Technologies
 
@@ -74,9 +74,15 @@
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
-</div>
+</div> -->
 
 ---
+
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=YukioChinen&langs_count=4&theme=dark">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=YukioChinen&langs_count=4&theme=dark" alt="GitHub Stats">
+  </a>
+</p>
 
 ## 📞 Contact
 
